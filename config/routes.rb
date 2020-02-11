@@ -5,4 +5,5 @@ TechReviewSite::Application.routes.draw do
     end
   end
   root 'products#index'
+  
 end
